@@ -65,6 +65,10 @@ skiils-auditoria-app/
 
 A legislação digital europeia muda com frequência. A skill europeia exige uma verificação de atualidade antes de cada auditoria, e as datas citadas nela refletem o estado conhecido em novembro de 2026. Ao revisar uma regra, edite o `SKILL.md` correspondente, mantendo o frontmatter (`name` e `description`) e o mesmo identificador de regra, para que os relatórios anteriores continuem comparáveis.
 
+## Autoria
+
+Estas skills foram criadas por Paulo Marcondes, do Instituto Educater, em colaboração com o Claude, modelo Sonnet 5.5 Médio.
+
 ## Licença
 
 Este repositório é distribuído sob a GNU General Public License v3.0 (ver [LICENSE](LICENSE)).
