@@ -67,7 +67,7 @@ A legislação digital europeia muda com frequência. A skill europeia exige uma
 
 ## Autoria
 
-Estas skills foram criadas por Paulo Marcondes, do Instituto Educater, em colaboração com o Claude, modelo Sonnet 5.5 Médio.
+Estas skills foram criadas por Paulo Marcondes, do Instituto Educater, em colaboração com o Claude (modelo Sonnet 5.5, nível de esforço médio).
 
 ## Licença
 
